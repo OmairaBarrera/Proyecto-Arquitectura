@@ -1,0 +1,159 @@
+<!-- SECCION DE PORTAFOLIO -->
+<section class="section position-relative overflow-hidden h-100">
+    <!-- MOBILE -->
+    <div class="d-sm-block d-md-none h-100 overflow-hidden">
+        <span class="w-100 position-absolute d-sm-block d-md-none mobile">PORTAFOLIO</span>
+        <img src="./img/R.jfif" class="h-100 d-sm-block d-md-none">
+    </div>
+
+    <!-- DESKTOP -->
+    <div class=" d-none d-md-flex overflow-hidden">
+        <div class="d-sm-none d-md-block overflow-hidden ">
+            <!-- HAY UN FALLO CON EL D-SM-NONE EN EL SPAN DE PORTAFOLIO -->
+            <span class="position-absolute d-sm-none d-md-flex desktop h-100">PORTAFOLIO</span>
+            <img src="./img/perfecta-temazo.jpg" class="d-sm-none h-100 d-none d-md-block">
+        </div>
+    </div>
+    <!-- <img src="./img/undraw_content_team_re_6rlg.svg" class="w-100 position-absolute nimodo2"> -->
+
+    <!-- ESTA IMAGEN ESTÁ HERMOSA!!!, PERO ROMPE EL TEMA DE LA PÁGINA -->
+    <!-- <img src="./img/background-bonito.jfif" alt=""> -->
+
+</section>
+
+<!-- SECCIÓN PORTAFOLIO GALERÍA -->
+<section class="section">
+
+    <!-- GALERÍA MOBILE-->
+    <article class="px-4 my-5 py-5 d-md-none h-100 d-sm-flex overflow-hidden position-relative">
+        <div class="row mt-4 d-flex h-50 ">
+
+            <div class="col-12 mt-4 ">
+
+                <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958194889-221A0869PWWKXHADIFAO/fotografia-arquitectura-inmobiliaria-zona-social-apartamento-laurel.jpg"
+                    data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958194889-221A0869PWWKXHADIFAO/fotografia-arquitectura-inmobiliaria-zona-social-apartamento-laurel.jpg"
+                    data-image-dimensions="2000x890" data-image-focal-point="0.5,0.5" data-load="false"
+                    class="summary-thumbnail-image loaded w-100 shadow-1-strong rounded mb-4 imagen boxShadow"
+                    alt="Propiedad de Jorge Mesa fotógrafo" data-image-resolution="2500w"
+                    style="box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.114);"
+                    src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958194889-221A0869PWWKXHADIFAO/fotografia-arquitectura-inmobiliaria-zona-social-apartamento-laurel.jpg?format=2500w">
+
+            </div>
+
+            <div class="col-6 mt-4">
+                <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033455059-U0POYSVYVO6J83T4MAHO/foto-arquitectura-interior-bano-casa-calleja.jpg"
+                    data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033455059-U0POYSVYVO6J83T4MAHO/foto-arquitectura-interior-bano-casa-calleja.jpg"
+                    data-image-dimensions="800x1200" data-image-focal-point="0.5,0.5" data-load="false"
+                    class="summary-thumbnail-image loaded w-100 shadow-1-strong rounded imagen mb-4 boxShadow"
+                    alt="Propiedad de Fotógrafo Jorge Mesa" data-image-resolution="1000w"
+                    style="box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.114);"
+                    src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033455059-U0POYSVYVO6J83T4MAHO/foto-arquitectura-interior-bano-casa-calleja.jpg?format=1000w">
+
+            </div>
+
+            <div class="col-6 mt-4">
+                <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958200360-M16TOPHAVZ5K6XQODJOM/fotografia-interior-barra-cocina-apartamento-montry.jpg"
+                    data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958200360-M16TOPHAVZ5K6XQODJOM/fotografia-interior-barra-cocina-apartamento-montry.jpg"
+                    data-image-dimensions="1200x800" data-image-focal-point="0.5,0.5" data-load="false"
+                    class="summary-thumbnail-image loaded w-100 shadow-1-strong rounded imagen mb-4 boxShadow"
+                    alt="Propiedad de Jorge Mesa fotógrafo" data-image-resolution="1500w"
+                    style="box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.114);"
+                    src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958200360-M16TOPHAVZ5K6XQODJOM/fotografia-interior-barra-cocina-apartamento-montry.jpg?format=1500w">
+
+                <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958173617-B3NQXGGW0LBIR2548U4B/fotografia-inmobiliaria-cocina-casa-modelo-calleja.jpg"
+                    data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958173617-B3NQXGGW0LBIR2548U4B/fotografia-inmobiliaria-cocina-casa-modelo-calleja.jpg"
+                    data-image-dimensions="1200x800" data-image-focal-point="0.5,0.5" data-load="false"
+                    class="summary-thumbnail-image loaded w-100 shadow-1-strong rounded imagen mb-4 boxShadow"
+                    alt="Propiedad de Jorge Mesa fotógrafo" data-image-resolution="1500w"
+                    style="box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.114);"
+                    src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958173617-B3NQXGGW0LBIR2548U4B/fotografia-inmobiliaria-cocina-casa-modelo-calleja.jpg?format=1500w">
+            </div>
+
+            <div class="col-6 mt-4">
+                <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033432319-XIGZ4016S4WM5BS1IZCY/fotografia-profesional-arquitectura-interior-sala-espera-grupo-argos.jpg"
+                    data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033432319-XIGZ4016S4WM5BS1IZCY/fotografia-profesional-arquitectura-interior-sala-espera-grupo-argos.jpg"
+                    data-image-dimensions="1200x800"
+                    data-image-focal-point="0.49222797927461137,0.6731588674146075" data-load="false"
+                    class="summary-thumbnail-image loaded w-100 shadow-1-strong rounded imagen mb-4 boxShadow"
+                    alt="Fotografía profesional de arquitectura interior, sala de espera Grupo Argos. Jorge Mesa fotografía"
+                    data-image-resolution="1500w" style="box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.114);"
+                    src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033432319-XIGZ4016S4WM5BS1IZCY/fotografia-profesional-arquitectura-interior-sala-espera-grupo-argos.jpg?format=1500w">
+            </div>
+
+            <div class="col-6 mt-4">
+                <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1573172145621-LWHMLS9WWO8EFREF9O98/fotografia-bienes-raices-sala-apartamento-modelo-montry.jpg"
+                    data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1573172145621-LWHMLS9WWO8EFREF9O98/fotografia-bienes-raices-sala-apartamento-modelo-montry.jpg"
+                    data-image-dimensions="1200x800" data-image-focal-point="0.5,0.5" data-load="false"
+                    class="summary-thumbnail-image loaded w-100 shadow-1-strong rounded imagen mb-4 boxShadow"
+                    alt="Propiedad de Jorge Mesa fotógrafo" data-image-resolution="1500w"
+                    style="box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.114);"
+                    src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1573172145621-LWHMLS9WWO8EFREF9O98/fotografia-bienes-raices-sala-apartamento-modelo-montry.jpg?format=1500w">
+            </div>
+
+        </div>
+    </article>
+
+    <!-- GALERÍA DESKTOP -->
+    <div class="container-fluid m-0 p-0 h-100 w-100 portafolioDesktop">
+        <div id="carouselExampleControls" class="carousel slide overflow-hidden" data-bs-ride="carousel">
+
+            <div class="carousel-inner h-100">
+                <div class="carousel-item active overflow-hidden">
+                    <!-- d-block w-100 -->
+                    <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958194889-221A0869PWWKXHADIFAO/fotografia-arquitectura-inmobiliaria-zona-social-apartamento-laurel.jpg"
+                        data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958194889-221A0869PWWKXHADIFAO/fotografia-arquitectura-inmobiliaria-zona-social-apartamento-laurel.jpg"
+                        data-image-dimensions="2000x890" data-image-focal-point="0.5,0.5" data-load="false"
+                        class="summary-thumbnail-image loaded d-block h-100 no "
+                        alt="Propiedad de Jorge Mesa fotógrafo" data-image-resolution="2500w"
+                        style="box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.114);"
+                        src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1569958194889-221A0869PWWKXHADIFAO/fotografia-arquitectura-inmobiliaria-zona-social-apartamento-laurel.jpg?format=2500w">
+
+                </div>
+
+                <div class="carousel-item overflow-hidden">
+                    <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033401316-5DONEGYARCS0AY2V6RF2/fotografia-profesional-interiorismo-terraza-casa-calleja.jpg"
+                        data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033401316-5DONEGYARCS0AY2V6RF2/fotografia-profesional-interiorismo-terraza-casa-calleja.jpg"
+                        data-image-dimensions="2000x1125" data-image-focal-point="0.5,0.5" data-load="false"
+                        class="summary-thumbnail-image loaded d-block w-100 img-fluid overflow-hidden" 
+                        alt="Fotografía profesional de interiorismo, terraza casa Calleja. Fotógrafo Jorge Mesa"
+                        data-image-resolution="2500w"
+                        src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033401316-5DONEGYARCS0AY2V6RF2/fotografia-profesional-interiorismo-terraza-casa-calleja.jpg?format=2500w">
+                </div>
+
+                <div class="carousel-item overflow-hidden">
+                    <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033421572-I25HT1Y2RVGR3QB1JBR1/foto-arquitectura-interior-sala-espera-grupo-argos.jpg"
+                        data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033421572-I25HT1Y2RVGR3QB1JBR1/foto-arquitectura-interior-sala-espera-grupo-argos.jpg"
+                        data-image-dimensions="2000x1103"
+                        data-image-focal-point="0.5647668591435091,0.5634434538067512" data-load="false"
+                        class="summary-thumbnail-image loaded d-block w-100 overflow-hidden"
+                        alt="Foto de arquitectura interior, sala de espera Grupo Argos. Jorge Mesa fotografía Colombia"
+                        data-image-resolution="2500w"
+                        src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033421572-I25HT1Y2RVGR3QB1JBR1/foto-arquitectura-interior-sala-espera-grupo-argos.jpg?format=2500w">
+                </div>
+
+                <div class="carousel-item overflow-hidden">
+                    <img data-src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033378472-NNV22MQCP0N751GVISOZ/fotografia-interior-arquitectonico-sala-comedor-casa-calleja.jpg"
+                        data-image="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033378472-NNV22MQCP0N751GVISOZ/fotografia-interior-arquitectonico-sala-comedor-casa-calleja.jpg"
+                        data-image-dimensions="2000x1125"
+                        data-image-focal-point="0.5129533678756477,0.5350696422435619" data-load="false"
+                        class="summary-thumbnail-image loaded d-block w-100 overflow-hidden"
+                        alt="Fotografía de interior arquitectónico, sala comedor casa Calleja. Jorge Mesa fotógrafo colombiano"
+                        data-image-resolution="2500w"
+                        src="https://images.squarespace-cdn.com/content/v1/54ec0fb3e4b0dc5d50410043/1570033378472-NNV22MQCP0N751GVISOZ/fotografia-interior-arquitectonico-sala-comedor-casa-calleja.jpg?format=2500w">
+                </div>
+            </div>
+
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+
+</section>
