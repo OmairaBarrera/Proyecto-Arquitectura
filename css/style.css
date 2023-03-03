@@ -231,7 +231,7 @@ nav{
 }
 /* SECCION DE CREADORES */
 .creadores{
-    background-image: url(/img/fondo_creadores.png);
+    background-image: url(../img/fondo_creadores.png);
     background-size: cover;
 }
 #card{
